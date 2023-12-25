@@ -6,8 +6,8 @@ The [simulation](/tree/main/simulation) folder contains outputs for 2D and 3D re
 
 2D example:
 
-![alt text](/blob/main/simulation/2D/frames/frame_0.png)
+<img src="/simulation/2D/frames/frame_0.png" width="500" height="500">
 
 3D example:
 
-![alt text](/blob/main/simulation/3D/frames/frame_10193.png)
+<img src="/simulation/3D/frames/frame_10193.png" width="500" height="500">
